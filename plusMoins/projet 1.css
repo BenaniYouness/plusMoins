@@ -1,0 +1,17 @@
+div{
+    
+    display: inline-block;
+    margin: 100px;
+    padding: 50px;
+    
+    
+}
+#resit{
+    background-color: aqua;
+    margin-top:-100px;
+    margin-left: 520px;
+    padding: 100px;
+}
+#bd{
+    background-color: chartreuse;
+}
